@@ -1,0 +1,9 @@
+C:\Users\nuhin13\documents\visual studio 2013\Projects\AI\AI\obj\Debug\AI.Form1.resources
+C:\Users\nuhin13\documents\visual studio 2013\Projects\AI\AI\obj\Debug\AI.Properties.Resources.resources
+C:\Users\nuhin13\documents\visual studio 2013\Projects\AI\AI\obj\Debug\AI.csproj.GenerateResource.Cache
+C:\Users\nuhin13\Documents\Visual Studio 2013\Projects\AI\AI\bin\Debug\AI.exe.config
+C:\Users\nuhin13\documents\visual studio 2013\Projects\AI\AI\bin\Debug\AI.exe
+C:\Users\nuhin13\documents\visual studio 2013\Projects\AI\AI\bin\Debug\AI.pdb
+C:\Users\nuhin13\documents\visual studio 2013\Projects\AI\AI\obj\Debug\AI.exe
+C:\Users\nuhin13\documents\visual studio 2013\Projects\AI\AI\obj\Debug\AI.pdb
+C:\Users\nuhin13\documents\visual studio 2013\Projects\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
